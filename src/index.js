@@ -14,3 +14,5 @@ class Tiffnail extends React.Component {
 Tiffnail.propTypes = {
     bytes: PropTypes.string.isRequired
 };
+
+export default Tiffnail;
