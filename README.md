@@ -23,3 +23,17 @@ Internally the component:
 
 Where bytes is a base64 encoded string holding the tiff image data.
 Please refer to the example directory for a complete working example react app that uses this component.
+
+### Running the example app
+
+After you have cloned the repository run the following command in the root of the project:
+```npm i```
+```npm run build```
+```npm link```
+
+Then in the example directory run the command:
+
+```npm link tiffnail-and-i```
+```npm start```
+
+
