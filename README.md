@@ -26,14 +26,18 @@ Please refer to the example directory for a complete working example react app t
 
 ### Running the example app
 
-After you have cloned the repository run the following command in the root of the project:
+After you have cloned the repository run the following commands in the root of the project:
+
 ```npm i```
+
 ```npm run build```
+
 ```npm link```
 
-Then in the example directory run the command:
+Then in the example directory run the following commands:
 
 ```npm link tiffnail-and-i```
+
 ```npm start```
 
 
