@@ -18,3 +18,8 @@ Internally the component:
 4) creates an image tag with src set to be the dataURL
 
 ### Usage
+
+```<Tiffnail bytes={bytes}/>```
+
+Where bytes is a base64 encoded string holding the tiff image data.
+Please refer to the example directory for a complete working example react app that uses this component.
