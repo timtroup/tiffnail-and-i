@@ -1,6 +1,6 @@
 {
   "name": "tiffnail-and-i",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React component to create and render thumbnails of TIFF format images within a web browser.",
   "license": "MIT",
   "repository" : {
